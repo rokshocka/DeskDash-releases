@@ -7,11 +7,13 @@ This page only holds the downloads. **[Get the latest release →](https://githu
 
 ## Install
 
-1. Download `deskdash.exe` from the latest release and put it somewhere permanent, for example
-   `%LOCALAPPDATA%\Programs\DeskDash\deskdash.exe`.
-2. Run it. Windows may warn that it's from an unknown publisher (it isn't code-signed yet): choose
-   **More info › Run anyway**. If the firewall asks, allow it on **Private** networks.
-3. Its setup page opens: turn on **Start with Windows**, then scan the QR code with your tablet or phone.
+1. Download `deskdash.exe` from the latest release and run it. Windows may warn that it's from an unknown publisher
+   (it isn't code-signed yet): choose **More info › Run anyway**.
+2. Choose **Yes** to install: DeskDash goes in your user folder (no admin needed), appears in the Start menu, and
+   starts with Windows. If the firewall asks, allow it on **Private** networks.
+3. Its setup page opens: scan the QR code with your tablet or phone.
+
+To remove it: Settings › Apps › Installed apps › DeskDash › Uninstall.
 
 ## Updates
 
